@@ -1,0 +1,11 @@
+input[type=text] {
+    align-self: center;
+    width: 90%;
+    height: 100px;
+    padding: 12px 20px;
+    margin: 4px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: 'Numans', sans-serif;
+    font-size: large;
+  }
